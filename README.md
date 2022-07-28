@@ -1,6 +1,4 @@
-# scala & .mid MTS-format files
-
-### different tuning files in different formats:
+# different tuning files in different formats:
 
 .scl — Scala
 .mid — MTS midi for Five12 Vector Sequencer
