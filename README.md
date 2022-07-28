@@ -1,3 +1,9 @@
 # scala & .mid MTS-format files
 
-converted tuning files to use with the five12 vector eurorack sequencer — with their scala format counterparts
+### different tuning files in different formats:
+
+.scl — Scala
+.mid — MTS midi for Five12 Vector Sequencer
+.txt — max/msp ```coll``` contents
+.tun — some software (vital?)
+
