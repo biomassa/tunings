@@ -1,8 +1,3 @@
-# Tuning file for Max/MSP coll objects. - Created using Scale Workshop 1.5
-# 22edo
-#
-# https://sevish.com/scaleworkshop/?name=22edo&data=54.54545%0A109.09091%0A163.63636%0A218.18182%0A272.72727%0A327.27273%0A381.81818%0A436.36364%0A490.90909%0A545.45455%0A600.00000%0A654.54545%0A709.09091%0A763.63636%0A818.18182%0A872.72727%0A927.27273%0A981.81818%0A1036.36364%0A1090.90909%0A1145.45455%0A2%2F1%0A&freq=440&midi=69&vert=5&horiz=1&colors=white%20black%20white%20white%20black%20white%20black%20white%20white%20black%20white%20black&waveform=semisine&ampenv=perc-medium
-#
 0, 50.0395212;
 1, 51.6412001;
 2, 53.2941462;
