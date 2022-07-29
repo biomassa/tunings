@@ -7,3 +7,9 @@
 .txt / max/msp ```coll``` contents
 
 .tun / some software (vital?)
+
+.syx / raw MTS sysex format
+
+
+
+### contributions / pull requests welcome!
